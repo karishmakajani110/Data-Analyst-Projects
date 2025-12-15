@@ -1,9 +1,11 @@
 # COVID-19 Data Exploration using SQL
 
 ## Project Overview
-This project explores global COVID-19 data using SQL to analyze infection rates, mortality trends, and vaccination coverage across countries and continents.
+This project explores global COVID-19 data using SQL to analyze infection rates, mortality trends,
+and vaccination coverage across countries and continents.
 
-The analysis was conducted using Microsoft SQL Server (SSMS) on a public Kaggle dataset containing approximately 85,000 records.
+The analysis was conducted using Microsoft SQL Server (SSMS) on a public dataset containing
+approximately 85,000 records.
 
 ## Tools & Technologies
 - SQL
@@ -14,7 +16,9 @@ The analysis was conducted using Microsoft SQL Server (SSMS) on a public Kaggle 
 - Window Functions (PARTITION BY)
 
 ## Data Source
-- Public COVID-19 dataset from Kaggle
+- Public COVID-19 dataset from Our World in Data  
+  https://ourworldindata.org/covid-deaths
+- Date Range: January 28, 2020 – April 30, 2021
 
 ## Data Preparation & Transformation
 - Created CTEs to structure multi-step analytical queries
@@ -31,8 +35,12 @@ The analysis was conducted using Microsoft SQL Server (SSMS) on a public Kaggle 
 - Total Population vs Vaccinations
 
 ## Key Insight
-The analysis showed significant variation in infection and death rates across countries and continents, highlighting how population size, infection spread, and vaccination coverage influence mortality trends.
+The analysis revealed significant variation in infection and death rates across countries and
+continents, highlighting how population size, infection spread, and vaccination coverage influence
+mortality trends.
 
 ## Outcome
-This project demonstrates practical SQL skills for data exploration, trend analysis, and working with real-world public datasets.
+This project demonstrates practical SQL skills in data exploration, trend analysis, and working
+with real-world public health datasets.
+
 
