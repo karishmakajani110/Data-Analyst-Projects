@@ -6,7 +6,8 @@ This project explores global COVID-19 data using SQL to analyze infection rates,
 The analysis was conducted using Microsoft SQL Server (SSMS) on a public Kaggle dataset containing approximately 85,000 records.
 
 ## Tools & Technologies
-- SQL (Microsoft SQL Server / SSMS)
+- SQL
+- Microsoft SQL Server (SSMS)
 - CTEs
 - Temporary Tables
 - Views
