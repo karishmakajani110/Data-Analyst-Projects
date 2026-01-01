@@ -1,31 +1,48 @@
 # BMI Calculator (Python)
 
-This project is a simple Python program that calculates Body Mass Index (BMI) based on user input and classifies the result into standard health categories.
+## Project Overview
+This project is a Python program that calculates Body Mass Index (BMI) based on user input and categorizes the result into standard BMI ranges. The project focuses on applying basic Python programming concepts such as input handling, calculations, and conditional logic.
+
+---
 
 ## Objective
-To demonstrate Python fundamentals such as user input handling, mathematical calculations, and conditional logic.
+- Practice handling user input in Python  
+- Perform mathematical calculations  
+- Apply conditional logic to classify calculated values  
 
-## How It Works
-- Prompts the user to enter name, weight (in pounds), and height (in inches)
-- Calculates BMI using the standard formula
-- Displays BMI value and corresponding health category
-
-## BMI Categories
-- Underweight: BMI < 18.5
-- Normal weight: 18.5 – 24.9
-- Overweight: 25 – 29.9
-- Obese: 30 – 34.9
-- Severely Obese: 35 – 39.9
-- Morbidly Obese: BMI ≥ 40
+---
 
 ## Tools
-- Python
+- Python  
+
+---
+
+## How the Program Works
+The script performs the following steps:
+
+- Prompts the user to enter their name, weight (in pounds), and height (in inches)  
+- Calculates BMI using the standard BMI formula  
+- Displays the calculated BMI value along with the corresponding category  
+
+---
+
+## BMI Categories
+- Underweight: BMI < 18.5  
+- Normal weight: 18.5 – 24.9  
+- Overweight: 25 – 29.9  
+- Obese: 30 – 34.9  
+- Severely Obese: 35 – 39.9  
+- Morbidly Obese: BMI ≥ 40  
+
+---
 
 ## Usage
-1. Run the script.
-2. Enter your name, weight, and height when prompted.
-3. View your BMI and health classification in the output.
+1. Run the Python script  
+2. Enter the required values when prompted  
+3. View the calculated BMI and category in the output  
+
+---
 
 ## Notes
-This project focuses on demonstrating core Python programming concepts rather than medical accuracy.
+This project is intended to demonstrate core Python programming concepts and does not provide medical advice or health recommendations.
 
