@@ -4,7 +4,7 @@ SQL projects demonstrating data exploration, data cleaning, and transformation u
 
 ## Projects
 
-### 🦠 COVID-19 Data Exploration
+### 🦠 Time-Series Data Analysis & Trend Evaluation (SQL)
 Analyzed global COVID-19 data to examine infection rates, mortality trends, and vaccination coverage across countries and continents.
 
 **Skills demonstrated:**
@@ -16,7 +16,7 @@ Analyzed global COVID-19 data to examine infection rates, mortality trends, and 
 
 ---
 
-### 🏠 Nashville Housing Data Cleaning
+### 🏠 Housing Data Quality & Analysis (SQL)
 Cleaned and transformed a real-world housing dataset to improve data quality and prepare it for analysis.
 
 **Skills demonstrated:**
